@@ -25,4 +25,5 @@ This dataset contains all uploaded TED Talks on its platform (2475 talks each wi
 <img width="300" alt="Screen Shot 2021-08-10 at 2 53 40 PM" src="https://user-images.githubusercontent.com/14266201/128941741-9beebac0-3a77-46f8-aa51-104ed70cbc3c.png">
 
 
-<img width="319" alt="Screen Shot 2021-08-10 at 2 54 01 PM" src="https://user-images.githubusercontent.com/14266201/128941748-37eaa51a-1480-4a2c-bd33-a1d644e0504b.png">
+<img width="475" alt="Screen Shot 2021-08-10 at 2 53 25 PM" src="https://user-images.githubusercontent.com/14266201/128941784-4442493e-681f-4862-9209-8556d584ced3.png">
+
